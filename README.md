@@ -1,4 +1,4 @@
-# Assignment-1
+# Assignment-1-Basic statistic_1
 
 Q7) Calculate Mean, Median, Mode, Variance, Standard Deviation, Range &  comment about the values / draw inferences, for the given dataset For Points,Score,Weigh? 
 
